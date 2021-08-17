@@ -3,3 +3,7 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+openpyxl==3.0.7
+pandas==1.2.5
+requests==2.25.1
+xmltodict==0.12.0
