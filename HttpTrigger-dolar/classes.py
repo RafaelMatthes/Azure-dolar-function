@@ -26,7 +26,7 @@ class Dolar(object):
                 
 
         return {
-            'Dolar':'None', 
+            'dolar': None, 
         }
 
    
